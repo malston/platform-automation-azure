@@ -1,4 +1,4 @@
-# Platform Automation Reference Pipelines
+# Platform Automation Pipelines to deploy PCF (PAS/PKS) on Azure
 
 The structure of this directory allows for multiple environments to be represented in a single repository.
 
